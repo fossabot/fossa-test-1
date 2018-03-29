@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "0.0.2",
+  "description": "Test",
+  "main": "test.js",
+  "author": "Joe Ireland",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5",
+    "https-proxy-agent": "^2.2.0",
+    "http-status-codes": "^1.3.0",
+    "ws": "^5.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5",
+    "supertest": "^1.0.1"
+  }
+}
